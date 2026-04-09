@@ -62,7 +62,7 @@ namespace CyberSecurityBot
         }
         else
         {
-          Console.WriteLine("Bot: I didn't quite understand that. Could you rephrase?");
+          Console.WriteLine("Bot: I didn't quite understand that. Please ask about passwords, phishing, or safe browsing.");
         }
 
         Thread.Sleep(500);
