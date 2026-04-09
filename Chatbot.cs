@@ -46,7 +46,7 @@ namespace CyberSecurityBot
         }
         else if (input.Contains("what can i ask"))
         {
-          Console.WriteLine("Bot: Ask me about passwords, phishing scams, suspicious links, and safe browsing.");
+          Console.WriteLine("Bot: Ask me about password safety, phishing scams, suspicious links, or safe browsing.");
         }
         else if (input.Contains("password"))
         {
