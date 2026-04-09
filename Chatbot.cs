@@ -33,7 +33,7 @@ namespace CyberSecurityBot
 
         if (input.Contains("exit"))
         {
-          Console.WriteLine("Bot: Goodbye! Stay safe online.");
+          Console.WriteLine("Bot: Goodbye! Remember to stay alert and protect your personal data online.");
           break;
         }
         else if (input.Contains("how are you"))
