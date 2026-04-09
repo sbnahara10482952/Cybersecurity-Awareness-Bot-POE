@@ -50,7 +50,7 @@ namespace CyberSecurityBot
         }
         else if (input.Contains("password"))
         {
-          Console.WriteLine("Bot: Use long passwords with numbers, symbols, and avoid personal details.");
+          Console.WriteLine("Bot: Use 12+ character passwords with symbols, numbers, and never reuse them.");
         }
         else if (input.Contains("phishing"))
         {
