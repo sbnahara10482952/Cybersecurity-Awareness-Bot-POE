@@ -54,7 +54,7 @@ namespace CyberSecurityBot
         }
         else if (input.Contains("phishing"))
         {
-          Console.WriteLine("Bot: Never click suspicious links and always verify email senders.");
+          Console.WriteLine("Bot: Be careful of fake emails, urgent payment requests, and suspicious login pages.");
         }
         else if (input.Contains("safe browsing"))
         {
